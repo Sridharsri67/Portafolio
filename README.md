@@ -72,27 +72,19 @@ npm run start
     │   ├── globals.css     # Global styles & cyberpunk variables
     │   ├── layout.tsx      # Main layout, fonts & metadata
     │   └── page.tsx        # Main portfolio assembly page
-    ├── components/         # Modular interactive components
-    │   ├── MatrixRain.tsx
-    │   ├── ParticleNetwork.tsx
-    │   ├── CyberCursor.tsx
-    │   ├── LoadingScreen.tsx
-    │   ├── ScrollProgress.tsx
-    │   ├── Navbar.tsx
-    │   ├── TerminalEasterEgg.tsx
-    │   ├── Hero.tsx
-    │   ├── About.tsx
-    │   ├── SocDashboard.tsx
-    │   ├── ThreatMap.tsx
-    │   ├── Skills.tsx
-    │   ├── Experience.tsx
-    │   ├── Projects.tsx
-    │   ├── Achievements.tsx
-    │   ├── Certifications.tsx
-    │   ├── Education.tsx
-    │   └── Contact.tsx
-    └── lib/
-        └── utils.ts        # Helper Class utility (Tailwind merge)
+    └── components/         # Modular interactive components
+        ├── LoadingScreen.tsx
+        ├── ScrollProgress.tsx
+        ├── Navbar.tsx
+        ├── TerminalEasterEgg.tsx
+        ├── Hero.tsx
+        ├── About.tsx
+        ├── Skills.tsx
+        ├── Projects.tsx
+        ├── Certifications.tsx
+        ├── Contact.tsx
+        ├── Footer.tsx
+        └── BrandIcons.tsx
 ```
 
 ---
